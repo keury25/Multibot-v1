@@ -1,24 +1,24 @@
 // ✩｡:*•.─────  NUMERO OWNER  ─────.•*:｡✩ 
-global.owner = ['51993042301', '593993684821', '593968585383', '50495086382', '50497501147', '5218451003894', '5215573031859', '50498965677', '528451003894', '525573031859'] //Agrega primero el numero que será Bot, luego los numeros a ser Owner
-global.mods = [] //Moderadores
-global.prems = [] //Premium, sin Limites en usar el Bot
+global.owner = ['18296942212', '593987101976'] //Agrega primero el numero que será Bot, luego los numeros a ser Owner
+global.mods = ['18296942212', '593987101976'] //Moderadores
+global.prems = ['18296942212', '593987101976'] //Premium, sin Limites en usar el Bot
 
 // ✩｡:*•.─────  INFORMACIION DEL BOT - GENERAL  ─────.•*:｡✩ 
 global.packname = '𝑴𝒖𝒍𝒕𝒊𝒗𝒆𝒓𝒔𝒆𝑩𝒐𝒕-𝑴𝑫' //Sticker
 global.author = '@gata_dios'
 
 global.nameowner = '✨ 𝑴𝒖𝒍𝒕𝒊𝒗𝒆𝒓𝒔𝒆𝑩𝒐𝒕-𝑴𝑫 ✨' //Nombre del Bot
-global.numberowner = '51993042301'
+global.numberowner = '18296942212'
 
-global.instagram = 'https://www.instagram.com/gata_dios' //Enlaces
-global.youtube = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
-global.github = 'https://github.com/GataNina-Li/MultiverseBot-MD'
+global.instagram = //'https://www.instagram.com/gata_dios' //Enlaces
+global.youtube = //'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.github = //'https://github.com/GataNina-Li/MultiverseBot-MD'
 
 
 // ✩｡:*•.─────  DATOS SECUNDARIOS  ─────.•*:｡✩ 
 global.namebot = 'MultiverseBot-MD '
-global.gc = 'https://github.com/GataNina-Li/MultiverseBot-MD'
-global.web = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.gc = //'https://github.com/GataNina-Li/MultiverseBot-MD'
+global.web = //'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 // ✩｡:*•.─────  ELEMENTOS DE INTERFAZ Y COMPLEMENTOS  ─────.•*:｡✩ 
